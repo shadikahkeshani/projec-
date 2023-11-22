@@ -1,0 +1,8 @@
+#include <iostream.h>
+ main()
+   {  int  a,b,c,man;
+          cin>>a>>b>>c;
+          max=b;
+          if(c>max)
+          max=c;
+        count<<max;
