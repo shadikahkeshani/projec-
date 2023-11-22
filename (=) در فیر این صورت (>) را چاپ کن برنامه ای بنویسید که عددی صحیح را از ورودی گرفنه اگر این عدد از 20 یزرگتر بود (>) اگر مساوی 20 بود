@@ -1,0 +1,14 @@
+#include <iostream.h>
+ main()
+
+{  int     a,20;
+
+      cin a>20    a=20    a<20;
+     
+      if(a>20)
+       '>';
+
+       if(a=20)
+        '=';
+
+       count << '<';
